@@ -1,2 +1,3 @@
 # exercise-3
-This is your 3rd assignment
+
+## Create a function that adds 2 numbers.
